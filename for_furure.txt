@@ -4,3 +4,5 @@ item_tfms = RandomResizedCrop(128, min_scale='some float') для того, чт
 
 some_data = some_data.new(item... , batch...) для того, чтобы из маленького набора данных создать большой и
 модель ИИ обращала внимание на изменение характеристик изображения
+
+
