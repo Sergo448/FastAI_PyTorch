@@ -7,3 +7,5 @@ some_data = some_data.new(item... , batch...) для того, чтобы из �
 
 
 
+
+
